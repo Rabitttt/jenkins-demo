@@ -37,7 +37,7 @@
 	</repositories>
 	<distributionManagement>
 		<repository>
-			<id>myMaveRepo.write</id>
+			<id>myMavenRepo.write</id>
 			<url>https://mymavenrepo.com/repo/HBZ3O2ySkUzaKiFaW9Po/</url>
 		</repository>
 	</distributionManagement>
