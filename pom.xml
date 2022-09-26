@@ -38,9 +38,14 @@
 	<distributionManagement>
 		<repository>
 			<id>myMavenRepo.write</id>
-			<url>https://mymavenrepo.com/repo/HBZ3O2ySkUzaKiFaW9Po/</url>
+			<url>https://mymavenrepo.com/repo/HBZ3O2ySkUzaKiFaW9Po//</url>
 		</repository>
+		<snapshotRepository>
+			<id>myMavenRepo.write</id>
+			<url>https://mymavenrepo.com/repo/HBZ3O2ySkUzaKiFaW9Po/</url>
+		</snapshotRepository>
 	</distributionManagement>
+
 	<build>
 		<plugins>
 			<plugin>
